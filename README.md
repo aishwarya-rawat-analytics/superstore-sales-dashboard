@@ -2,7 +2,7 @@
 
 > Analysed 9,994 retail orders ($2.3M in sales) to find why profit lagged, and uncovered a top-selling product line that is quietly losing money.
 
-![Dashboard](Superstore Sales and Profit Overview.png)
+![Dashboard](<Superstore Sales and Profit Overview.png)
 
 ## Business Problem
 A retail superstore was growing sales steadily, but leadership needed to know whether that growth was actually profitable, and where money might be leaking.
